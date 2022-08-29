@@ -68,3 +68,42 @@ Esta sección se ha movido aquí: [https://facebook.github.io/create-react-app/d
 ### `npm run build` no se puede minimizar
 
 Esta sección se ha movido aquí: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+### PROYECTO PARA PAGINA WEB DE NOTICIAS GRUPO NRO. 8
+### BASE DE DATOS
+Creación BD postresql
+### BACKEND
+•	Creacion API con ruby on rails
+•	Creacion crud
+•	Test postman
+### FRONTEND
+•	Instalacion React
+
+•	Instalacion Create React App (Para crear la aplicacion en react)
+Create React App configura tu ambiente de desarrollo de forma que puedas usar las últimas características de Javascript, brindando una buena experiencia de desarrollo, y optimizando tu aplicación para producción. Necesitarás tener Node >= 14.0.0 y npm >= 5.6 instalados en tu máquina. Para crear un proyecto ejecuta:
+
+npx create-react-app my-app
+cd my-app
+npm start
+
+•	Instalacion React boostrap (Frontend Framework contruido para react )
+La mejor manera de consumir React-Bootstrap es a través del paquete npm que puede instalar con npm (o hilo si lo prefiere).
+
+Si planea personalizar los archivos de Bootstrap Sass, o no desea usar una CDN para la hoja de estilos, también puede ser útil instalar Vanilla Bootstrap.
+
+npm install react-bootstrap bootstrap
+
+•	Instalacion React router v6 (Es el enrutador para react)
+
+La mayoría de los proyectos modernos de React administran sus dependencias utilizando un administrador de paquetes como npm o Yarn. Para añadir React Router a un proyecto existente, lo primero que debes hacer es instalar las dependencias necesarias con la herramienta de tu elección:
+
+$ npm install react-router-dom@6
+
+•	Autentitacion de usuarios con AUTH0
+-	Registrarse con modo personal
+-	Realizar la integración de la base de datos con postgresql
+
+### Creacion de la aplicacion Web de noticias
+
