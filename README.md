@@ -2,7 +2,7 @@
 
 Este proyecto fue arrancado con [Create React App](https://github.com/facebook/create-react-app).
 
-## Scripts disponibles
+## Scripts todos disponibles
 
 En el directorio del proyecto, puede ejecutar:
 
@@ -61,10 +61,10 @@ Esta sección se ha movido aquí: [https://facebook.github.io/create-react-app/d
 
 Esta sección se ha movido aquí: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+### Deployment (Despliegue)
 
 Esta sección se ha movido aquí: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+### `npm run build` no se puede minimizar
 
 Esta sección se ha movido aquí: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
