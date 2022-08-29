@@ -101,7 +101,24 @@ La mayoría de los proyectos modernos de React administran sus dependencias util
 
 $ npm install react-router-dom@6
 
-•	Autentitacion de usuarios con AUTH0
+### Autentitacion de usuarios con AUTH0
+
+Auth0 es un servicio que nos provee todo el mecanismo para administrar la autorización y la autenticación de nuestras plataformas. Auth0 pretende darle a los desarrolladores y a las compañías seguridad en sus aplicaciones sin ser unos expertos. La idea es que Auth0 es el experto y simplemente provee todo ese conocimiento.
+
+Qué se puede conectar con Auth0
+Con Auth0 podemos conectar cualquier tipo de aplicación, escrito en cualquier lenguaje. Puedes elegir los proveedores que más te interesen, por ejemplo:
+
+Google
+Auth0
+Facebook
+Nuestra propia base de datos
+Básicamente, Auth0 se conecta con todo. Auth0 como servicio implementa todos los flujos de OAuth 2.0, además de otros servicios extra.
+
+Para qué sirve Auth0
+Auth0 nos permite proteger a nuestras aplicaciones con las mejores prácticas de seguridad sin necesidad de ser expertos.
+
+Más que ayudar a implementar, este es un servicio para el manejo de autorización y administración de usuarios para tu aplicación. Ellos se encargan de toda la seguridad del login y retornan un token con el cual validas que el usuario está logueado y puede ver el contenido.
+
 -	Registrarse con modo personal
 -	Realizar la integración de la base de datos con postgresql
 
